@@ -13,3 +13,7 @@ No styles, no settings. Just next packages:
 
 - react-meteor-data
 - kadira:flow-router
+
+## Other boilerplate versions
+
+- MaterialUI - https://github.com/alonoslav/meteor-react-boilerplate-material-ui
